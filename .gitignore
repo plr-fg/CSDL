@@ -1,0 +1,12 @@
+.idea/
+.env/
+.vscode/
+__pycache__/
+data/
+data
+model/
+log/
+*.pyc
+*.log
+*.pth
+*.pt

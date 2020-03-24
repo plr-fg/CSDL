@@ -1,4 +1,4 @@
-This is the code for the combination of our CSDL method and iSQRT-COV (named as "Ours" in Table in our paper). This code is modified from iSQRT-COV.
+This is the code for the combination of our CSDL method and iSQRT-COV (named as "Ours" in Table 1 in our paper). This code is modified from iSQRT-COV.
 
 To run this CSDL-iSQRT-COV code, 
 - put data in ``data`` folder and then 
